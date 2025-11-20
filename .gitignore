@@ -2,3 +2,5 @@ __pycache__
 *.pth
 assets/PetFace/chimp
 chimp.tar.gz
+.idea/
+logs/
